@@ -1,3 +1,3 @@
 # DATA-STRUCTURES & ALGORITHMS
 DSA
-Author - Omkar Sawant
+Omkar Sawant
